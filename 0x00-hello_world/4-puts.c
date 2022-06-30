@@ -1,10 +1,6 @@
 #include <stdio.h>
 
-/**
- * start function
- *
- * use betty style
- */
+/* Return: Always 0 (Success) */
 int main(void)
 {
 	char text[] = "\n\"Programming is like building a multilingual puzzle";
