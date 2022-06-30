@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * start function
  *
- * Return: Always 0 (Success)
+ * use betty style
  */
 int main(void)
 {
