@@ -7,8 +7,7 @@
  */
 int main(void)
 {
-	String text = "\n with proper grammar, but the outcome is a piece of art,";
-	printf(text);
+	printf("\n with proper grammar, but the outcome is a piece of art,");
 	
 	return (0);
 }
