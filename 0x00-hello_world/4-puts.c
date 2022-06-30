@@ -1,11 +1,14 @@
 #include <stdio.h>
-int main(void)
-	/**
- * main - function
+
+/**
+ * main - Entry point
  *
- * add space after
+ * Return: Always 0 (Success)
  */
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle \n");
+	char test_str[] = "\"Programming is like building a multilingual puzzle\n";
+
+	puts(test_str);
 	return (0);
 }
