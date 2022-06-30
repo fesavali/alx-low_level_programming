@@ -6,7 +6,6 @@ int main(void)
  * add space after
  */
 {
-	puts("\"Programming is like building a multilingual puzzle");
-  	putschar('\n');
+	puts("\"Programming is like building a multilingual puzzle \n");
 	return (0);
 }
