@@ -1,4 +1,7 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <ctype.h>
 /**
  * main - Entry point
  *Description: print all alphabets in small case
