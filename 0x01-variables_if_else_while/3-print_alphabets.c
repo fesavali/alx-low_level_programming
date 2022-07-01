@@ -14,8 +14,12 @@ int main()
     for(x = 'A'; x <= 'z'; x++) 
     {
         x = tolower(x);
-        y = toupper(x);
         putchar(x);
+       
+    }
+      for(x = 'A'; x <= 'z'; x++) 
+    {
+        y = toupper(x);
         putchar(y);
     }
    
