@@ -15,13 +15,10 @@ int main()
     {
         x = tolower(x);
         putchar(x);
-       
-    }
-      for(x = 'A'; x <= 'z'; x++) 
-    {
         y = toupper(x);
-        putchar(y);
+        
     }
+    putchar(y);
    
     return 0;
 }
