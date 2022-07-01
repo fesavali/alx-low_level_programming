@@ -14,6 +14,7 @@ int main()
     {
         x = tolower(x);
         putchar(x);
+        putchar('\n');
     }
     return 0;
 }
