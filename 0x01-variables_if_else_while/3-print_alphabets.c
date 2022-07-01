@@ -15,7 +15,7 @@ int main()
     {
         x = tolower(x);
         y = toupper(x);
-        putchar(xy);
+        putchar(strcat(x,y));
     }
     putchar('\n');
     return 0;
