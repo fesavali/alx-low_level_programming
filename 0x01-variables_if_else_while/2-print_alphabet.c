@@ -1,20 +1,22 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
+/**
+ * C program to print all alphabets from a to z
+ */
 
+#include <stdio.h>
 /**
  * main - Entry point
  *Description: print all alphabets in small case
  * Return: Always 0 (Success)
  */
-
-int main(void)
+int main()
 {
-	char low;
+    char ch;
 
-	for (low = 'a'; low <= 'z'; low++)
-		putchar(low);
-		putchar('\n');
+    putchar("Alphabets from a - z are: \n");
+    for(ch='a'; ch<='z'; ch++)
+    {
+        putchar("%c\n", ch);
+    }
 
-	return (0);
+    return 0;
 }
