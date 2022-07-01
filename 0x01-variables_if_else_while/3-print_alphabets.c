@@ -16,9 +16,8 @@ int main()
         x = tolower(x);
         putchar(x);
         y = toupper(x);
-        
+        putchar(y);
     }
-    putchar(y);
    
     return 0;
 }
