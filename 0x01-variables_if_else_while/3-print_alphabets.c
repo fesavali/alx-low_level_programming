@@ -15,8 +15,9 @@ int main()
     {
         x = tolower(x);
         y = toupper(x);
-        putchar(x,y);
+        putchar(x);
+        putchar(y);
     }
-    putchar('\n');
+   
     return 0;
 }
