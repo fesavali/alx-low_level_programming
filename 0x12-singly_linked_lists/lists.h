@@ -1,13 +1,10 @@
 #ifndef LISTS_H
 #define LISTS_H
-
 /*
  * file containing prototypes and definitions for all functions
  * and types.
  */
-
 #include <stdlib.h>
-
 typedef struct list_s
 {
 	char *str;
