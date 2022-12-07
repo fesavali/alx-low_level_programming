@@ -1,0 +1,3 @@
+Makefile sets a set of rules to determine which parts of a program need to be recompile, and issues command to recompile them. Makefile is a way of automating software building procedure and other complex tasks with dependencies. Makefile contains: dependency rules, macros and suffix(or implicit) rules.
+
+Makefile is a program building tool which runs on Unix, Linux, and their flavors. It aids in simplifying building program executables that may need various modules. To determine how the modules need to be compiled or recompiled together, make takes the help of user-defined makefiles.
