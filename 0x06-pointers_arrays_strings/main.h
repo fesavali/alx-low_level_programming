@@ -4,7 +4,7 @@
 /**
  * File: main.h
  * By: Felix savali
- * Desc: Header file containing prototypes for all functions
+ * Desc: Header filecontaining prototypes for all functions
  *       used in the 0x06-pointers_arrays_strings directory.
  */
 
